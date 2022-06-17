@@ -1,13 +1,13 @@
 /* ---- UNIVERSAL SELECTORS ------- */
 * {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 body {
-    background-color: #d9dcd6;
+  background-color: #d9dcd6;
 }
 
 a {
@@ -21,9 +21,10 @@ p {
 
 /* --- HEADER SELECTORS / STYLING ------- */
 header {
-    padding: 20px;
-    background-color: #2a607c;
-    color: #ffffff;
+  width: 100%;
+  padding: 20px;
+  background-color: #2a607c;
+  color: #ffffff;
 }
 
 header,
@@ -32,51 +33,51 @@ footer {
 }
 
 header h1 {
-    display: inline-block;
-    font-size: 48px;
+  display: inline-block;
+  font-size: 48px;
 }
 
 header h1 .seo {
-    color: #d9dcd6;
+  color: #d9dcd6;
 }
 
 nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-size: 20px;
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-size: 20px;
 }
 
 nav ul li {
-    display: inline-block;
-    margin-left: 25px;
+  display: inline-block;
+  margin-left: 25px;
 }
 
 /* ---------- HERO IMAGE & STYLING -------------- */
 .hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
+  height: 800px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-size: cover;
+  background-position: center;
 }
 
 /* --------- CONTENT CONTAINER/SECTION & STYLING */
 
 .content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 .float-left {
-    float: left;
-    margin-right: 25px;
+  float: left;
+  margin-right: 25px;
 }
 
 .float-right {
-    float: right;
-    margin-left: 25px;
+  float: right;
+  margin-left: 25px;
 }
 
 /* -------- CONTENT TEXT & IMAGES STYLING ---- */
@@ -101,13 +102,13 @@ nav ul li {
 /* ----------- ASIDE CONTENT & STYLING -------------- */
 /* .benefits { */
 aside {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    background-color: #2589bd;
+  margin-right: 20px;
+  padding: 20px;
+  clear: both;
+  float: right;
+  width: 20%;
+  height: 100%;
+  background-color: #2589bd;
 }
 
 .benefit-container {
@@ -128,11 +129,11 @@ aside {
 
 /* ----------- FOOTER SECTION -------------- */
 footer {
-    padding: 30px;
-    clear: both;
-    text-align: center;
+  padding: 30px;
+  clear: both;
+  text-align: center;
 }
 
 footer h2 {
-    font-size: 20px;
+  font-size: 20px;
 }
