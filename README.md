@@ -1,6 +1,7 @@
-A Mock Landing Page by [Steve Calla](https://github.com/stevecalla)
 
-<!-- * Project Manager: Steve Calla -->
+## Overview/User Story
+
+AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines.
 
 ## Index
 
@@ -11,12 +12,6 @@ A Mock Landing Page by [Steve Calla](https://github.com/stevecalla)
 3. [Acceptance Criteria](#acceptance)
 4. [Technologies](#technologies)
 6. [Resources](#resources)
-
-<!-- </details> -->
-
-## Overview/User Story
-
-AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines
 
 ## Website Preview - Basic Functionality
 
@@ -53,3 +48,5 @@ THEN I find a concise, descriptive title
 1. GitHub Repo: https://github.com/stevecalla/horiseon-mockup
 
 2. GitHub Hosted URL: https://stevecalla.github.io/horiseon-mockup/
+
+3. Project Manager: [Steve Calla](https://github.com/stevecalla)
