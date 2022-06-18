@@ -16,10 +16,6 @@ AS A marketing agency I WANT a codebase that follows accessibility standards SO 
 
 <img width="750" alt="Screen Shot 2022-06-17 at 5 20 13 PM" src="https://user-images.githubusercontent.com/72281855/174411883-c10ee9cd-9e4b-4068-9ea4-1ab8a9f2ec59.png">
 
-## Anchor Tag - Functionality
-
-<img src="https://media.giphy.com/media/zgrHsAR9rY9UUWDcUL/giphy.gif" width="100%" height="500"/>
-
 ## Criteria
 
 ```
