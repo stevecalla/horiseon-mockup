@@ -18,10 +18,7 @@ AS A marketing agency I WANT a codebase that follows accessibility standards SO 
 
 ## Anchor Tag - Functionality
 
-<img src="https://media.giphy.com/media/zgrHsAR9rY9UUWDcUL/giphy.gif" width="640" height="480">
-
-
-<img src="https://media.giphy.com/media/2uU7j76WPMNbURCAby/giphy.gif" width="100%" height="500"/>
+<img src="https://media.giphy.com/media/zgrHsAR9rY9UUWDcUL/giphy.gif" width="100%" height="500"/>
 
 ## Criteria
 
@@ -38,6 +35,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
 ## Technologies
 
 1. HTML
@@ -46,8 +44,8 @@ THEN I find a concise, descriptive title
 
 ## Resources
 
-1. GitHub Repo: https://github.com/stevecalla/horiseon-mockup
+1. GitHub Repo: <https://github.com/stevecalla/horiseon-mockup>
 
-2. GitHub Hosted URL: https://stevecalla.github.io/horiseon-mockup/
+2. GitHub Hosted URL: <https://stevecalla.github.io/horiseon-mockup/>
 
 3. Project Manager: [Steve Calla](https://github.com/stevecalla)
