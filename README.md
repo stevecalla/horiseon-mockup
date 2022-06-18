@@ -32,6 +32,10 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Additional Criteria & Project Management
+
+<img width="1430" alt="Screen Shot 2022-06-17 at 6 27 45 PM" src="https://user-images.githubusercontent.com/72281855/174414967-7dd0774f-bb5d-492a-8c11-a57bf0784e10.png">
+
 ## Technologies
 
 1. HTML
