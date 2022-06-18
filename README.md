@@ -20,6 +20,9 @@ AS A marketing agency I WANT a codebase that follows accessibility standards SO 
 
 <img src="https://media.giphy.com/media/zgrHsAR9rY9UUWDcUL/giphy.gif" width="640" height="480">
 
+
+<img src="https://media.giphy.com/media/2uU7j76WPMNbURCAby/giphy.gif" width="100%" height="500"/>
+
 ## Criteria
 
 ```
