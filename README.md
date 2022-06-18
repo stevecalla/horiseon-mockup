@@ -8,14 +8,17 @@ AS A marketing agency I WANT a codebase that follows accessibility standards SO 
 <!-- <details><summary></summary> -->
 
 1. [Overview](#overview)
-2. [User Story](#user)
 3. [Acceptance Criteria](#acceptance)
 4. [Technologies](#technologies)
 6. [Resources](#resources)
 
 ## Website Preview - Basic Functionality
 
-<!-- <img src="https://media.giphy.com/media/iNl6UrA2z72jGgn8Bk/giphy-downsized-large.gif" width="100%" height="400"/> -->
+<img width="750" alt="Screen Shot 2022-06-17 at 5 20 13 PM" src="https://user-images.githubusercontent.com/72281855/174411883-c10ee9cd-9e4b-4068-9ea4-1ab8a9f2ec59.png">
+
+## Anchor Tag - Functionality
+
+<img src="https://media.giphy.com/media/nZ4yw85dPY1Esll4vA/giphy-downsized-large.gif" width="640" height="480">
 
 ## Acceptance Criteria
 
@@ -32,11 +35,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
-
-* Known Issues/Bugs:
-  * None at this time.
-
 ## Technologies
 
 1. HTML
