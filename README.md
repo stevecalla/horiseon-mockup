@@ -1,5 +1,5 @@
 
-## Overview/User Story
+## Overview
 
 AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines.
 
@@ -8,7 +8,7 @@ AS A marketing agency I WANT a codebase that follows accessibility standards SO 
 <!-- <details><summary></summary> -->
 
 1. [Overview](#overview)
-3. [Acceptance Criteria](#acceptance)
+2. [Acceptance Criteria](#criteria)
 4. [Technologies](#technologies)
 6. [Resources](#resources)
 
@@ -18,9 +18,9 @@ AS A marketing agency I WANT a codebase that follows accessibility standards SO 
 
 ## Anchor Tag - Functionality
 
-<img src="https://media.giphy.com/media/nZ4yw85dPY1Esll4vA/giphy-downsized-large.gif" width="640" height="480">
+<img src="https://media.giphy.com/media/zgrHsAR9rY9UUWDcUL/giphy.gif" width="640" height="480">
 
-## Acceptance Criteria
+## Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
